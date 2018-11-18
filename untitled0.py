@@ -30,7 +30,6 @@ def label_img(img):
     #                            [no cat, very doggo]
     elif word_label == 'dog': return [0, 1]
 
-
 '''
 The  function converts the data for us into array
  data of the image and its label.
